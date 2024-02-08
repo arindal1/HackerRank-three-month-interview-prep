@@ -19,8 +19,7 @@ The challenges are part of HackerRank's 3 Month Interview Preparation Kit. Below
 | Week 3 |  [✅](https://github.com/arindal1/HackerRank-three-month-interview-prep/tree/main/week-3) |
 | Week 4 |  [✅](https://github.com/arindal1/HackerRank-three-month-interview-prep/tree/main/week-4) |
 
-**PS 1:** I'm mostly efficient in CPP and Python, so most of the solutions solutions are for CPP and python. If you need a solution for any other languange please make an [Issue](https://github.com/arindal1/HackerRank-three-month-interview-prep/issues), I'll *try* to provide the solution. On the other hand if you have the solutions for other languages which I have not provided than feel free to make a [Pull Request](https://github.com/arindal1/HackerRank-three-month-interview-prep/pulls), and contribute. It'll be a great help. <br>
-**PS 2:** Many of the functions might not pass all the test cases in the IDE, because I am not proficient in all the languages ([I'm only human afterall...](https://www.youtube.com/watch?v=S9D0Cw3B8ZE)). So, avoid copy-pasting the fuctions hoping them to run first try, understand the logic, make necessary adjustments and pray to god that it passes all the test cases. <br>
+**PS:** Many of the functions might not pass all the test cases in the IDE, because I am not proficient in all the languages ([I'm only human afterall...](https://www.youtube.com/watch?v=S9D0Cw3B8ZE)). So, avoid copy-pasting the fuctions hoping them to run first try, understand the logic, make necessary adjustments and pray to god that it passes all the test cases. <br>
 
 ## License
 
