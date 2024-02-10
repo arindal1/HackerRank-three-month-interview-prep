@@ -18,6 +18,7 @@ The challenges are part of HackerRank's 3 Month Interview Preparation Kit. Below
 | Week 2 |  [✅](https://github.com/arindal1/HackerRank-three-month-interview-prep/tree/main/week-2) |
 | Week 3 |  [✅](https://github.com/arindal1/HackerRank-three-month-interview-prep/tree/main/week-3) |
 | Week 4 |  [✅](https://github.com/arindal1/HackerRank-three-month-interview-prep/tree/main/week-4) |
+| Week 5 |  [✅](https://github.com/arindal1/HackerRank-three-month-interview-prep/tree/main/week-5) |
 
 **PS:** Many of the functions might not pass all the test cases in the IDE, because I am not proficient in all the languages ([I'm only human afterall...](https://www.youtube.com/watch?v=S9D0Cw3B8ZE)). So, avoid copy-pasting the fuctions hoping them to run first try, understand the logic, make necessary adjustments and pray to god that it passes all the test cases. <br>
 
