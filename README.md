@@ -19,6 +19,8 @@ The challenges are part of HackerRank's 3 Month Interview Preparation Kit. Below
 | Week 3 |  [✅](https://github.com/arindal1/HackerRank-three-month-interview-prep/tree/main/week-3) |
 | Week 4 |  [✅](https://github.com/arindal1/HackerRank-three-month-interview-prep/tree/main/week-4) |
 | Week 5 |  [✅](https://github.com/arindal1/HackerRank-three-month-interview-prep/tree/main/week-5) |
-| Week 6 |  [❌]() |
+| Week 6 |  [✅](https://github.com/arindal1/HackerRank-three-month-interview-prep/tree/main/week-6) |
+| Week 7 |  [❌]() |
+
 
 Feel free to use the code for educational purposes or for your own practice, understand the logic, but please do not use it for cheating in any HackerRank challenges or interviews.
